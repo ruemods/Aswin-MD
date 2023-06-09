@@ -1,4 +1,4 @@
-# _Aswin-multi-device_
+# _Aswin-multi-device_ (BETA)
 ## _Multi device whatsapp bot created by [@Aswin Sparky](https://github.com/Sparkymon777)_
   
 <div align="center">
