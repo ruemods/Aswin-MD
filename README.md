@@ -3,7 +3,7 @@
   
 <div align="center">
    
-<a href="https://aswinmdqr.onrender.com/server/qr-code"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a>
+<a href="https://replit.com/@Sparkymon777/ELSAQR-FOR-ASWIN-MD#index.js"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a>
 <br>
 <div>
 <br>
