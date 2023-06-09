@@ -17,9 +17,9 @@
   <div>
 <br>
 
-## Deploy to Koyeb ↓
+## Deploy to Koyeb ↓ (SOON)
 
-<a href="https:yz/deploy" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https:" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" alt="Deploy bot" height="112" width="310" /></a>
   <div>
 <br>
 <div>
